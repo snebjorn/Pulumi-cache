@@ -2,6 +2,6 @@
 
 ```shell
 cd Infra
-pulumi select dev
+pulumi stack select dev
 pulumi up
 ```
